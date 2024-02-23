@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAILEDA
 - 👀 I’m interested in being a full stack developer
-- 🌱 I’m currently learning javascripts
+- 🌱 I’m learning backend
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me @mdayyabu6.com
 
